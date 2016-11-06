@@ -21,6 +21,361 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/portfolio\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/.gitignore",
+		"oF": 0
+		},
+	"\/portfolio\/app\/assets\/images\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/assets\/images\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/app\/assets\/javascripts\/application.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/portfolio\/app\/assets\/javascripts\/application-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/portfolio\/app\/assets\/stylesheets\/application.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/assets\/stylesheets\/application-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/portfolio\/app\/controllers\/application_controller.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/controllers\/application_controller.rb",
+		"oF": 0
+		},
+	"\/portfolio\/app\/controllers\/concerns\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/controllers\/concerns\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/app\/helpers\/application_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/helpers\/application_helper.rb",
+		"oF": 0
+		},
+	"\/portfolio\/app\/mailers\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/mailers\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/app\/models\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/models\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/app\/models\/concerns\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/models\/concerns\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/app\/views\/layouts\/application.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/app\/views\/layouts\/application.html.erb",
+		"oF": 0
+		},
+	"\/portfolio\/bin\/bundle": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/bin\/bundle",
+		"oF": 0
+		},
+	"\/portfolio\/bin\/rails": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/bin\/rails",
+		"oF": 0
+		},
+	"\/portfolio\/bin\/rake": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/bin\/rake",
+		"oF": 0
+		},
+	"\/portfolio\/bin\/setup": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/bin\/setup",
+		"oF": 0
+		},
+	"\/portfolio\/config.ru": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config.ru",
+		"oF": 0
+		},
+	"\/portfolio\/config\/application.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/application.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/boot.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/boot.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/database.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/database.yml",
+		"oF": 0
+		},
+	"\/portfolio\/config\/environment.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/environment.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/environments\/development.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/environments\/development.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/environments\/production.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/environments\/production.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/environments\/test.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/environments\/test.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/assets.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/assets.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/backtrace_silencers.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/backtrace_silencers.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/cookies_serializer.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/cookies_serializer.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/filter_parameter_logging.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/filter_parameter_logging.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/inflections.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/inflections.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/mime_types.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/mime_types.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/session_store.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/session_store.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/initializers\/wrap_parameters.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/initializers\/wrap_parameters.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/locales\/en.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/locales\/en.yml",
+		"oF": 0
+		},
+	"\/portfolio\/config\/routes.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/routes.rb",
+		"oF": 0
+		},
+	"\/portfolio\/config\/secrets.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/config\/secrets.yml",
+		"oF": 0
+		},
+	"\/portfolio\/db\/seeds.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/db\/seeds.rb",
+		"oF": 0
+		},
+	"\/portfolio\/Gemfile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/Gemfile",
+		"oF": 0
+		},
+	"\/portfolio\/Gemfile.lock": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/Gemfile.lock",
+		"oF": 0
+		},
+	"\/portfolio\/lib\/assets\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/lib\/assets\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/lib\/tasks\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/lib\/tasks\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/portfolio\/log",
+		"oF": 0
+		},
+	"\/portfolio\/public\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/public\/404.html",
+		"oF": 0
+		},
+	"\/portfolio\/public\/422.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/public\/422.html",
+		"oF": 0
+		},
+	"\/portfolio\/public\/500.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/public\/500.html",
+		"oF": 0
+		},
+	"\/portfolio\/public\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/public\/favicon.ico",
+		"oF": 0
+		},
+	"\/portfolio\/public\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/public\/robots.txt",
+		"oF": 0
+		},
+	"\/portfolio\/Rakefile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/Rakefile",
+		"oF": 0
+		},
+	"\/portfolio\/README.rdoc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/README.rdoc",
+		"oF": 0
+		},
+	"\/portfolio\/test\/controllers\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/controllers\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/fixtures\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/fixtures\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/helpers\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/helpers\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/integration\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/integration\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/mailers\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/mailers\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/models\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/models\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/test\/test_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/test\/test_helper.rb",
+		"oF": 0
+		},
+	"\/portfolio\/tmp\/cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/portfolio\/tmp\/cache",
+		"oF": 0
+		},
+	"\/portfolio\/vendor\/assets\/javascripts\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/vendor\/assets\/javascripts\/.keep",
+		"oF": 0
+		},
+	"\/portfolio\/vendor\/assets\/stylesheets\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/portfolio\/vendor\/assets\/stylesheets\/.keep",
+		"oF": 0
+		},
+	"\/post_show.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/post_show.html",
+		"oF": 0
+		},
 	"\/posts.html": {
 		"ft": 8192,
 		"oA": 2,
