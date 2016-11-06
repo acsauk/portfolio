@@ -15,6 +15,12 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/posts.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/posts.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -78,6 +84,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/posts_projects.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/posts_projects.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
